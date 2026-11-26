@@ -1,0 +1,6 @@
+{
+  "name": "ScholarGrid — Smart Attendance & Institution Management",
+  "description": "Offline-first local-network Desktop Administration & Native Android Teacher Attendance, Academic Structure, Timetable, Finance, and Sync System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
